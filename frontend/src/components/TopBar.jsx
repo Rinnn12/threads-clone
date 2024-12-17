@@ -114,7 +114,7 @@ const TopBar = () => {
         />
         <Flex alignItems="center">
           <Text fontSize="xl" fontWeight="bold">
-            MyApp
+           Austonsss
           </Text>
         </Flex>
         <Flex align="center" gap={2} width="50%">
